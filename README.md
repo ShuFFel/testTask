@@ -7,6 +7,7 @@
 2)Check bracket sequence from text file for correctness.
 
 **Information**
+
 This code written on Java 1.8, by using IDE "Eclipse" and build by Gradle 4.1.
 # *CONTACTS*
 
